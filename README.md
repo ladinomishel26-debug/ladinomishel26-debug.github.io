@@ -370,13 +370,13 @@ Newspaper
 
     <div class="pull-panel">
       <h3>The Big Idea</h3>
-      <blockquote>Fun is a byproduct of real learning — not a substitute for it.</blockquote>
+      <blockquote>Fun is a product of real learning — not a substitute for it.</blockquote>
       <h3 style="margin-top:14px;">Questions Every Teacher Should Ask</h3>
       <ol>
         <li>How does this expand on what children already know?</li>
         <li>How will this activity help this child grow?</li>
         <li>What skills are being developed?</li>
-        <li>How does this add to children's understanding of their world?</li>
+        <li>How does this constribute to children's understanding of their world?</li>
         <li>How does this prepare children to live more fully?</li>
       </ol>
     </div>
