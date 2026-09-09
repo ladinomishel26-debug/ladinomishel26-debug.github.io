@@ -226,10 +226,10 @@
     <div class="kicker">
       <span>EARLY CHILDHOOD EDUCATION EDITION</span>
       <span>ONE COPY, TWO GREAT THINKERS</span>
-      <span>PRICE: ONE GOOD IDEA</span>
+      <span>PRICE: YOUR FULL ATTENTION</span>
     </div>
     <div class="title">THE BLOCKS <span class="amp">&amp;</span> BOOKS BULLETIN</div>
-    <div class="subhead">Reporting on how children really learn — straight from the classroom desk of Dewey &amp; Montessori</div>
+    <div class="subhead">Reporting on how children really learn straight from the classroom desk of Dewey &amp; Montessori</div>
   </div>
 
   <div class="duel">
@@ -237,16 +237,16 @@
     <div class="col dewey">
       <div class="byline-tag">FEATURE &middot; From the Desk of John Dewey</div>
       <h2 class="headline">Beyond the Sundae Bar: Why "Fun" Isn't Enough</h2>
-      <div class="dek">A classroom ice-cream party looked joyful — but did it teach anything? Dewey says enjoyment is only step one.</div>
+      <div class="dek">A classroom ice-cream party looked joyful but did it teach anything? Dewey says enjoyment is only step one.</div>
       <div class="body-text">
-        <p>John Dewey argued that learning should absolutely be enjoyable — but he warned teachers not to stop there. An experience can be exciting and still teach nothing, if it isn't connected to what children already know or curious about.</p>
+        <p>John Dewey argued that learning should absolutely be enjoyable, but he warned teachers not to stop there. An experience can be exciting and still teach nothing, if it isn't connected to what children already know or curious about.</p>
         <div class="pullquote">"The children really seemed to enjoy it" is not the same as "the children really learned something."</div>
-        <p>Take the make-your-own-sundae day one educator described: children picked toppings, taped paper cones to a "Favorite Ice Cream" chart, and had a wonderful time. But the activity never asked what the children already knew about ice cream, never built new skills, and the final chart didn't even leave room for real answers — one child's true favorite, Cherry Garcia, simply didn't fit the categories.</p>
+        <p>Take the make your own sundae day one educator described: children picked toppings, taped paper cones to a "Favorite Ice Cream" chart, and had a wonderful time. But the activity never asked what the children already knew about ice cream, never built new skills, and the final chart didn't even leave room for real answers one child's true favorite, Cherry Garcia, simply didn't fit the categories.</p>
         <p>By ending on a tidy "my favorite is..." chart, the teacher closed the door on curiosity instead of opening it. Dewey's lesson: good planning starts with the child's experience and pushes it somewhere new, rather than just delivering a good time.</p>
       </div>
       <div class="takeaway">
         <strong>THE TAKEAWAY</strong>
-        Plan for interest AND growth. Ask what children already know, what they wonder about next, and how the activity builds a real skill — not just a smile.
+        Plan for interest AND growth. Ask what children already know, what they wonder about next, and how the activity builds a real skill, not just a smile.
       </div>
     </div>
 
@@ -257,10 +257,10 @@
       <h2 class="headline">Let Them Do It Themselves: Montessori on Growing Up Capable</h2>
       <div class="dek">Every task an adult does for a child is a lesson the child doesn't get to learn. Montessori says: step back.</div>
       <div class="body-text">
-        <p>Maria Montessori believed children have a deep drive to care for themselves and their surroundings — and that adults, often without meaning to, get in the way. She cautioned that grown-ups "serve" children far too much, doing things for them that they could be doing for themselves.</p>
+        <p>Maria Montessori believed children have a deep drive to care for themselves and their surroundings, and that adults, often without meaning to, get in the way. She cautioned that grown-ups "serve" children far too much, doing things for them that they could be doing for themselves.</p>
         <div class="pullquote">Children who are never allowed to do something for themselves never learn how to do it.</div>
         <p>It is almost always faster for an adult to just pour the juice, button the coat, or sweep up the spill. But Montessori insisted that real growth requires handing that job back to the child, even when it's slower and messier.</p>
-        <p>She also observed that children learn through repetition, doing the same task again and again until it becomes truly their own. Her advice to teachers: prepare a rich environment, offer real materials, then step back and give children the time and space to practice — uninterrupted.</p>
+        <p>She also observed that children learn through repetition, doing the same task again and again until it becomes truly their own. Her advice to teachers: prepare a rich environment, offer real materials, then step back and give children the time and space to practice uninterrupted.</p>
       </div>
       <div class="takeaway">
         <strong>THE TAKEAWAY</strong>
@@ -284,7 +284,7 @@
       </div>
       <div class="ad-copy">
         <h3>THE "WHAT DO YOU WONDER?" SUNDAE CART</h3>
-        <p>Not just toppings — question cards included! Ask what children already know before the first scoop. Turns snack time into a real Dewey-approved investigation. Curiosity not included, but strongly encouraged.</p>
+        <p>Not just toppings question cards included! Ask what children already know before the first scoop. Turns snack time into a real Dewey approved investigation. Curiosity not included, but strongly encouraged.</p>
       </div>
     </div>
     <div class="ad monte-ad">
@@ -298,7 +298,7 @@
       </div>
       <div class="ad-copy">
         <h3>LITTLE HANDS, REAL TOOLS</h3>
-        <p>Child-sized brooms, pitchers, and folding cloths, sized for small hands and big independence. No plastic toy versions here — just real jobs, done by real children, over and over until they've got it.</p>
+        <p>Child-sized brooms, pitchers, and folding cloths, sized for small hands and big independence. No plastic toy versions here, just real jobs, done by real children, over and over until they've got it.</p>
       </div>
     </div>
   </div>
