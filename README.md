@@ -303,7 +303,7 @@
   </div>
 
   <div class="footer">
-    <div class="staff"><b>Reporting &amp; Editorial Team:</b> Add your group members' full names here</div>
+    <div class="staff"><b>Reporting &amp; Editorial Team:</b> Mishel Ladino, MAriana Loaiza, Jesús Idarraga, Maria José</div>
     <div>Vol. I &middot; No. 1 &middot; Sources: Dewey, "'It's Fun' Is Not Enough" &amp; Montessori, "Competence and Responsibility"</div>
   </div>
 
