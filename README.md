@@ -240,7 +240,7 @@
       <div class="body-text">
         <p>John Dewey argued that learning should absolutely be enjoyable, but he warned teachers not to stop there. An experience can be exciting and still teach nothing, if it isn't connected to what children already know or curious about.</p>
         <div class="pullquote">"The children really seemed to enjoy it" is not the same as "the children really learned something."</div>
-        <p>Take the make your own sundae day one educator described: children picked toppings, taped paper cones to a "Favorite Ice Cream" chart, and had a wonderful time. But the activity never asked what the children already knew about ice cream, never built new skills, and the final chart didn't even leave room for real answers one child's true favorite, Cherry Garcia, simply didn't fit the categories.</p>
+        <p>One teacher Mooney describes held a make-your-own-sundae celebration: children chose toppings and had a wonderful time. At the end, the teacher had them tape a cutout ice-cream cone to a "Our Favorite Ice Cream" poster next to the word chocolate, vanilla, or strawberry. But the activity never asked what the children already knew about ice cream, never built new skills, and the poster didn't even leave room for real answers — one child, Zachary, chose Cherry Garcia as his favorite, a flavor that didn't fit any of the three categories.</p>
         <p>By ending on a tidy "my favorite is..." chart, the teacher closed the door on curiosity instead of opening it. Dewey's lesson: good planning starts with the child's experience and pushes it somewhere new, rather than just delivering a good time.</p>
       </div>
       <div class="takeaway">
