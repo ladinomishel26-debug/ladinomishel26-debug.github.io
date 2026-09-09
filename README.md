@@ -303,8 +303,8 @@
   </div>
 
   <div class="footer">
-    <div class="staff"><b>Reporting &amp; Editorial Team:</b> Mishel Ladino, MAriana Loaiza, Jesús Idarraga, Maria José</div>
-    <div>Vol. I &middot; No. 1 &middot; Sources: Dewey, "'It's Fun' Is Not Enough" &amp; Montessori, "Competence and Responsibility"</div>
+    <div class="staff"><b>Reporting &amp; Editorial Team:</b> Mishel Ladino, MAriana Loaiza, Jesús Idarraga, Maria José Quiroga</div>
+    <div>Vol. I &middot; No. 1 &middot; Sources: Dewey, "Mooney, C. G. (2013). Theories of childhood: An introduction to Dewey, Montessori, Erikson, Piaget & Vygotsky (2nd ed.). Redleaf Press."</div>
   </div>
 
 </div>
